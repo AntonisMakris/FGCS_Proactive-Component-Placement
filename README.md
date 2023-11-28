@@ -3,8 +3,8 @@
 This repository contains several tables that offer a clear presentation of the experimental results and data associated with the article titled "_Pro-active Component Image Placement in Edge Computing Environments_," published in **Future Generation Computer Systems**.
 
 <br><br>
-
-![alt text](Barabasi-Albert.png)
+**Barabasi-Albert**
+<br>
 
 <p align="center">
   <img width="600" height="300" src="Barabasi-Albert.png"/>
