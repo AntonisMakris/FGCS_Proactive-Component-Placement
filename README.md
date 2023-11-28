@@ -6,7 +6,7 @@ This repository contains several tables that offer a clear presentation of the e
 **Barabasi-Albert**
 <br>
 
-<p align="center">
+<p align="left">
   <img width="600" height="300" src="Barabasi-Albert.png"/>
 </p>
 
