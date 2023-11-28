@@ -3,5 +3,5 @@
 This repository contains several tables that offer a clear presentation of the experimental results and data associated with the article titled "Pro-active Component Image Placement in Edge Computing Environments," published in Future Generation Computer Systems.
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](Barabasi-Albert.png)
 
