@@ -5,3 +5,7 @@ This repository contains several tables that offer a clear presentation of the e
 
 ![alt text](Barabasi-Albert.png)
 
+<p align="center">
+  <img width="200" height="200" src="Barabasi-Albert.png"/>
+</p>
+
