@@ -7,6 +7,6 @@ This repository contains several tables that offer a clear presentation of the e
 ![alt text](Barabasi-Albert.png)
 
 <p align="center">
-  <img width="800" height="300" src="Barabasi-Albert.png"/>
+  <img width="600" height="300" src="Barabasi-Albert.png"/>
 </p>
 
