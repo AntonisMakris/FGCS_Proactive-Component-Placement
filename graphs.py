@@ -415,7 +415,7 @@ if __name__ == '__main__':
     ########################################################################################################################
     ########################################################################################################################
 
-    ## Cost Function all Network Structures for the various Algorithms #####################################################  OK!
+    ## Cost Function all Network Structures for the various Algorithms #####################################################  
     costfunction_all_NetworkStructures_for_Approximation()
     costfunction_all_NetworkStructures_for_Greedy()
     costfunction_all_NetworkStructures_for_Genetic()
@@ -423,7 +423,7 @@ if __name__ == '__main__':
     ########################################################################################################################
     ########################################################################################################################
 
-    # NumberofNodesinVC all Network Structures for the various Algorithms ##################################################  OK!
+    # NumberofNodesinVC all Network Structures for the various Algorithms ##################################################  
     NumberofNodesinVC_all_NetworkStructures_for_Approximation()
     NumberofNodesinVC_all_NetworkStructures_for_Greedy()
     NumberofNodesinVC_all_NetworkStructures_for_Genetic()
